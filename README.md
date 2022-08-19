@@ -1,4 +1,4 @@
-# ### [精品小屋](https://wjianli.github.io/) 👋
+》 [个人简历](https://wjianli.github.io/) 👋
 
 <!--
 **jingpinxiaowu/jingpinxiaowu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
